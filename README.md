@@ -1,4 +1,4 @@
-# POKER_PROYECT
+# POKER_PROJECT
 proyecto clase programacion estructurada
 
 
